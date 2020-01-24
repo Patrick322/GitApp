@@ -1,4 +1,4 @@
-## Quote application
+## Git search app
 
 ## Author
 
