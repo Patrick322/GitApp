@@ -9,7 +9,8 @@
         <div class="input-group mb-3"> <input type="text" class="form-control bg-transparent col-sm-6 offset-3"
             placeholder="Search here" aria-label="user" aria-describedby="basic-addon2" name="username"
             [(ngModel)]="username" />
-          <div class="input-group-append" id="og"> <button class="btn btn-danger" type="button" (click)="findProfile()"> Search
+          <div class="input-group-append" id="og"> <button class="btn btn-danger" type="button" (click)="findProfile()">
+              Search
             </button> </div>
         </div>
       </div>
@@ -21,7 +22,7 @@
         <div>
           <div> <img src="{{ profile.avatar_url }}" class="img-circle img-responsive" alt="Profile Image"
               style="border-radius: 10px;" />
-             </div>
+          </div>
           <p id="ob"> {{ profile.name }} <small>({{ profile.login }})</small> </p>
           <p id="pb"> <span *ngIf="profile.company"> Works at {{ profile.company }}</span> {{ profile.location }} </p>
         </div>
