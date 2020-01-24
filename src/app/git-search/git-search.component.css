@@ -1,0 +1,19 @@
+body{
+    padding-top:50px;
+}
+.search-form{
+    padding-top: 50px;
+}
+
+.prof{
+    border:2px solid black;
+    padding: 2%;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+#repo{
+    margin-bottom: 1%;
+}
+
+
