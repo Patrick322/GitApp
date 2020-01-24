@@ -5,15 +5,15 @@
 Buong Patrick
 
 # Description
-This application allows individual to add new quote and the author
+This application helps to find peoples github user name and repositories.
 
 ## setup/installtion Requirement
 
 Open Terminal {Ctrl+Alt+T}
 
-git clone https://github.com/Patrick322/quote.git
+git clone https://github.com/Patrick322/GitApp.git
 
-cd quote
+cd GitApp
 code . or atom . depending on the text editor of your choice.
 
 
@@ -30,11 +30,11 @@ Email:patrickbuong@gmail.com
 
 ## codebeat
 
-
+[![codebeat badge](https://codebeat.co/badges/07807a64-f016-4d9d-b68f-0920a8a10644)](https://codebeat.co/projects/github-com-patrick322-gitapp-master)
 
 ## Livelink
 
-  https://patrick322.github.io/Quotes/
+ https://patrick322.github.io/GitApp/
 
 
 ## Licence
