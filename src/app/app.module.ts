@@ -6,6 +6,7 @@ import { GitSearchComponent } from './git-search/git-search.component';
 import { HttpClientModule } from '@angular/common/http';
 import { AboutComponent } from './about/about.component';
 import { NavbarComponent } from './navbar/navbar.component';
+import { AppRoutingModule } from './app-routing.module';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,9 @@ import { NavbarComponent } from './navbar/navbar.component';
     BrowserModule,
     HttpClientModule,
     FormsModule,
+    AppRoutingModule,
   ],
+
   providers: [],
   bootstrap: [AppComponent]
 })
