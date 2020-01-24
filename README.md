@@ -29,7 +29,6 @@ Email:patrickbuong@gmail.com
 
 ## codebeat
 
-[![codebeat badge](https://codebeat.co/badges/aacf6719-7bc7-484d-903a-db3f60e8b758)](https://codebeat.co/projects/github-com-patrick322-quotes-master)
 
 
 ## Livelink
