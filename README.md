@@ -20,7 +20,7 @@ code . or atom . depending on the text editor of your choice.
 ## Technologies used
 
 * This project was generated with Angular CLI version 7.1.4.
-* nHTML & CSS (Bootstrap)
+* HTML & CSS (Bootstrap)
 
 
 ## Support and contacts details
