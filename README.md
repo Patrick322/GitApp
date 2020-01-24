@@ -17,9 +17,10 @@ cd quote
 code . or atom . depending on the text editor of your choice.
 
 
-## Known Bugs
+## Technologies used
 
-The website is working okay but we are looking forward to expand it  globally
+* This project was generated with Angular CLI version 7.1.4.
+* nHTML & CSS (Bootstrap)
 
 
 ## Support and contacts details
